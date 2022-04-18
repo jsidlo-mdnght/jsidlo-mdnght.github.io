@@ -1,0 +1,80 @@
+# start of css file
+:root {
+  --primary: #000000;
+  --secondary: #000000;
+  --accent1: #000000;
+  --accent2: #000000;
+}
+
+body {
+  background-color: var();
+  color: var();
+}
+
+p {
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+
+}
+
+.menu {
+
+}
+
+.menu a {
+
+}
+
+.menu a:hover {
+
+}
+
+.menu a:active {
+
+}
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+#footer {
+
+}
+
+#title {
+
+}
+
+.dropdown {
+
+}
+
+.dropdown:hover {
+
+}
+
+.dropdown-content {
+
+}
+
+.dropdown-content a {
+
+}
+
+.dropdown-content a:hover {
+
+}
